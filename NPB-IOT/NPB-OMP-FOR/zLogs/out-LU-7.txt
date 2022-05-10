@@ -1,0 +1,740 @@
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3058110294700E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1597231147297E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4210888754870E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2493966661848E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.5893408878723E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2992396018113E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.8529866513682E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    75.52
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 27000.51
+ Mop/s/thread    =                  3857.22
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3185531556979E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1597231147297E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4342479028460E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2493966661848E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.5893408878723E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2992396018113E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.8529866513682E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    75.45
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 27024.32
+ Mop/s/thread    =                  3860.62
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3185531556979E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1774701274774E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4342479028460E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2493966661848E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.5893408878723E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2867712850691E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.8529866513682E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    75.12
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 27142.62
+ Mop/s/thread    =                  3877.52
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3058110294700E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1597231147297E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4342479028460E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2493966661848E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.5893408878723E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2867712850691E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.8529866513682E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    75.29
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 27082.11
+ Mop/s/thread    =                  3868.87
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3058110294700E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1774701274774E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4210888754870E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2493966661848E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.5893408878723E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2867712850691E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.8529866513682E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    75.11
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 27145.16
+ Mop/s/thread    =                  3877.88
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3058110294700E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1597231147297E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4342479028460E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2493966661848E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.5893408878723E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2867712850691E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.8529866513682E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    76.23
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 26747.75
+ Mop/s/thread    =                  3821.11
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3058110294700E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1774701274774E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4342479028460E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2493966661848E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.5893408878723E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2992396018113E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.6397399885262E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    75.46
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 27020.51
+ Mop/s/thread    =                  3860.07
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3058110294700E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1597231147297E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4342479028460E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2493966661848E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.5893408878723E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2992396018113E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.8529866513682E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    75.23
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 27104.05
+ Mop/s/thread    =                  3872.01
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3185531556979E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1597231147297E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4210888754870E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2625228065103E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.4420056659042E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2992396018113E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.8529866513682E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    75.95
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 26845.63
+ Mop/s/thread    =                  3835.09
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:                    250
+ Number of available threads:     7
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class C
+ Accuracy setting for epsilon =  0.1000000000000E-07
+ Comparison of RMS-norms of residual
+           1   0.1037669803235E+05 0.1037669803235E+05 0.2629433849584E-14
+           2   0.8922124588010E+03 0.8922124588010E+03 0.3058110294700E-14
+           3   0.2562388145827E+04 0.2562388145827E+04 0.1597231147297E-14
+           4   0.2191943438578E+04 0.2191943438578E+04 0.4149261727131E-15
+           5   0.1780780572611E+05 0.1780780572611E+05 0.4494407395667E-14
+ Comparison of RMS-norms of solution error
+           1   0.2159863997170E+03 0.2159863997169E+03 0.4210888754870E-14
+           2   0.1557895592399E+02 0.1557895592399E+02 0.4104822334079E-14
+           3   0.5413188630772E+02 0.5413188630772E+02 0.2493966661848E-14
+           4   0.4822626431540E+02 0.4822626431540E+02 0.5893408878723E-15
+           5   0.4559029100433E+03 0.4559029100433E+03 0.2867712850691E-14
+ Comparison of surface integral
+               0.6664045535722E+02 0.6664045535722E+02 0.6397399885262E-15
+ Verification Successful
+
+
+ LU Benchmark Completed.
+ Class           =                        C
+ Size            =            162x 162x 162
+ Iterations      =                      250
+ Time in seconds =                    75.40
+ Total threads   =                        7
+ Avail threads   =                        7
+ Mop/s total     =                 27040.81
+ Mop/s/thread    =                  3862.97
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              30 Apr 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -mcmodel=medium 
+    FLINKFLAGS   = -O3 -mcmodel=medium 
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
