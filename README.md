@@ -8,7 +8,7 @@ Also some files may need to be given execute permission, this can be done with t
 ```
 chmod +x [fileName]
 ```
-Originally, this code was used to run on a multi-core plataform whit 12 threads, so it is configured to run applications ranging from 1 to 12 cores.
+Originally, this code was used to run on a multi-core platform with 12 threads, so it is configured to run applications ranging from 1 to 12 cores.
 ## Execution
 To execute the applications, run the following command inside the 'REP-SCRIPTS' folder:
 ```
