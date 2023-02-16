@@ -1,0 +1,530 @@
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.748 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9498613931198e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.34
+ Mop/s total     =                 14568.06
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.755 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9498613931198e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.34
+ Mop/s total     =                 14515.45
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.750 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9498613931198e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.33
+ Mop/s total     =                 14599.97
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.752 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9498613931198e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.34
+ Mop/s total     =                 14522.80
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.753 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9498613931198e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.34
+ Mop/s total     =                 14473.69
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.748 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9498613931198e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.34
+ Mop/s total     =                 14534.25
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.749 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9498613931198e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.34
+ Mop/s total     =                 14573.92
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.750 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9616220519807e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.35
+ Mop/s total     =                 14469.52
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.753 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9498613931198e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.34
+ Mop/s total     =                 14526.65
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+ No input file. Using compiled defaults
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - MG Benchmark
+
+ Size: 256x256x256 (class_npb B)
+ Iterations:  20
+ Initialization time:           0.747 seconds
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+ Benchmark completed
+ VERIFICATION SUCCESSFUL
+ L2 Norm is  1.8005644013552e-06
+ Error is    8.9498613931198e-14
+
+
+ MG Benchmark Completed
+ class_npb       =                        B
+ Size            =            256x 256x 256
+ Total threads   =                       11
+ Iterations      =                       20
+ Time in seconds =                     1.34
+ Mop/s total     =                 14570.25
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              28 Apr 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=medium
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=medium
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
