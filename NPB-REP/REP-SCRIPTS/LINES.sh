@@ -1,5 +1,5 @@
 prog=("EP" "MG" "CG" "FT" "IS" "BT" "SP" "LU")
-export f1=$(grep -c ^processor /proc/cpuinfo)
+export f1=12
 f3=8
 cont=0
 vet=()
