@@ -14,3 +14,7 @@ To execute the applications, run the following command inside the 'REP-SCRIPTS' 
 ```
 ./Main.sh
 ```
+##
+<div align="center">  
+  <img src="https://cdn.discordapp.com/attachments/1076157666986049598/1076170251894534264/rep.png" alt="Game preview" /> 
+</div>
