@@ -3,7 +3,7 @@ By Eduardo Machado Martins, Eduardo Felber Eichner and Bernardo Pacheco Fiorini
 ## Description
 This project and article provides a reproduction of experiments that compare the efficiency of the original NAS Parallel Benchmarks, with a C++ version, both using parallel processing with OpenMP, and a comparison between two different classes of work. From that, the behavior of the executions in each situation was carefully evaluated. The results of the project are inside the 'Graphics' folder. The article was written in Portuguese and is inside the folder 'Paper'.
 ## Dependencies
-It was developed to run in a Linux environment. Uses C, C++, Fortran, Gnuplot, Shell, Python and numpy. When downloaded, the NPB.zip file must be unzipped in the root directory, this file contains the NPB and NPB-CPP source codes. 
+It was developed to run in a Linux environment. Uses C, C++, Fortran, Gnuplot, Shell, Python and Numpy. When downloaded, the NPB.zip file must be unzipped in the root directory, this file contains the NPB and NPB-CPP source codes. 
 Also some files may need to be given execute permission, this can be done with the following command:
 ```
 chmod +x [fileName]
